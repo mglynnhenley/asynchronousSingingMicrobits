@@ -4,7 +4,7 @@
 
 ## Goal
 
-Synchronizing two or more microbits to play music together, and adding the ability to import a mp3 or midi file, and have it be able to be played on a given number of microbits# asynchronous_singing_microbits
+Synchronizing two or more microbits to play music together, and adding the ability to import a mp3 or midi file, and have it be able to be played on a given number of microbits
 
 
 ## Members
